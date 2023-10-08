@@ -12,3 +12,8 @@ Local Storage: Uses local storage to save search history and provides easy acces
 
 github url:https://github.com/hineeraja/Weather-Dashboard
 Website URL: https://hineeraja.github.io/Weather-Dashboard/
+
+# Screenshots
+![Alt text](image.png)
+
+![Alt text](image-1.png)
